@@ -1,0 +1,6 @@
+c:\users\anurag bhatt\documents\visual studio 2013\Projects\ReadifyCompetencyPuzzles\ReadifyCompetencyPuzzles\bin\Debug\ReadifyCompetencyPuzzles.exe.config
+c:\users\anurag bhatt\documents\visual studio 2013\Projects\ReadifyCompetencyPuzzles\ReadifyCompetencyPuzzles\bin\Debug\ReadifyCompetencyPuzzles.exe
+c:\users\anurag bhatt\documents\visual studio 2013\Projects\ReadifyCompetencyPuzzles\ReadifyCompetencyPuzzles\bin\Debug\ReadifyCompetencyPuzzles.pdb
+c:\users\anurag bhatt\documents\visual studio 2013\Projects\ReadifyCompetencyPuzzles\ReadifyCompetencyPuzzles\obj\Debug\ReadifyCompetencyPuzzles.csprojResolveAssemblyReference.cache
+c:\users\anurag bhatt\documents\visual studio 2013\Projects\ReadifyCompetencyPuzzles\ReadifyCompetencyPuzzles\obj\Debug\ReadifyCompetencyPuzzles.exe
+c:\users\anurag bhatt\documents\visual studio 2013\Projects\ReadifyCompetencyPuzzles\ReadifyCompetencyPuzzles\obj\Debug\ReadifyCompetencyPuzzles.pdb
